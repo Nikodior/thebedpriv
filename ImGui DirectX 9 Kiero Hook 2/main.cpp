@@ -31,7 +31,7 @@ bool show_main = true;
 int screenX = GetSystemMetrics(SM_CXSCREEN);
 int screenY = GetSystemMetrics(SM_CYSCREEN);
 
-// Funkcje i inne zeczy potrzebne do "cheat'a".
+// Funkcje i inne zeczy potrzebne do "cheat'a". Ee widzisz mnie?
 bool esp = false; 
 bool bhop = false; 
 
